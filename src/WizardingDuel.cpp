@@ -1,4 +1,4 @@
-#include "Hogwarts.h"
+#include "../libs/Hogwarts.h"
 
 BEGIN_GAME
 

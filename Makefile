@@ -1,6 +1,6 @@
 CC=g++
-SRC=WizardingDuel.cpp
-LIB=Hogwarts.h
+SRC=src/WizardingDuel.cpp
+LIB=libs/Hogwarts.h
 BIN=WizardingDuel
 CFLAGS=-std=c++11
 
